@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One", "One\One.csproj", "{1984335F-4099-412E-9EEC-97335B371C9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First", "One\First.csproj", "{1984335F-4099-412E-9EEC-97335B371C9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two", "Two\Two.csproj", "{1A8B9BC7-535F-44D9-9300-C15D4DAFF273}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two", "Two\Two.csproj", "{1A8B9BC7-535F-44D9-9300-C15D4DAFF273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three", "Three\Three.csproj", "{203FFC71-43FF-46DC-A116-FCC4769C2F9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three", "Three\Three.csproj", "{203FFC71-43FF-46DC-A116-FCC4769C2F9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
